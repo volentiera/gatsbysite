@@ -1,5 +1,6 @@
 import * as React from "react"
 
+
 const pageStyles = {
   color: "#232129",
   padding: 96,
@@ -173,4 +174,4 @@ const IndexPage = () => {
 
 export default IndexPage
 
-export const Head = () => <title>Home Page</title>
+export const Head = () => <title>Pagina Principal</title>
